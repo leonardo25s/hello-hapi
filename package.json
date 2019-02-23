@@ -18,6 +18,10 @@
     "start" : "node index.js",
     "test": "mocha ./test/**/*.test.js"
   },
+
+  "engine" : {
+    "node" : "10.15.1"
+  },
   "author": "",
   "license": "ISC"
 }
